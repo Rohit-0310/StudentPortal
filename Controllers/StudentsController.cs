@@ -9,6 +9,6 @@ namespace StudentPortal.Controllers
         {
             return View();
         }
-        [HttpPost]
+        //[HttpPost]
     }
 }
